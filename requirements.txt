@@ -1,9 +1,9 @@
-aiohttp
-pyrofork
-python-dotenv
-tgcrypto
+python-telegram-bot[ext]
+fuzzywuzzy
+python-Levenshtein
+httpx
+Flask
+Werkzeug
 motor
-aiofiles
 dnspython
-requests
-jinja2
+pymongo
